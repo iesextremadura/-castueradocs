@@ -6,6 +6,13 @@
 
 En la pizarra se ha puesto(10/09/2018) un listado de usuarios de [Rayuela](https://rayuela.educarex.es) como de usuarios del centro.
 
+### Intranet
+
+En el centro disponemos de una [Intranet](http://172.19.120.74). Hay un apartado para profesores donde podeis.
+- Gestionar partes de Indicencias
+- Gestionar incidencia informáticas 
+- Subir ficheros (Programaciones, Memorias, etc)
+
 ### Sala de Profesores
 
 #### Material del centro
