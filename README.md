@@ -18,17 +18,6 @@ En el centro disponemos de una [Intranet](http://172.19.120.74). Hay un apartado
 #### Material del centro
 Hay disponibles 8 ordenadores en Sala de profesores y tres impresoras
 
-  ---Puerta Conserjeria---- __________________________________________________________
-  
-            SP-05     SP-06        HP133     SP-07        SP-08 
-         
-         
-         
-         
-         
-          SP-04   HP77  SP-03   impresoras   SP-02  HP42  SP-01
-____________________________________________________________------Puerta Informático------
-
 - HP133 - Impresora 
 - HP77 - Impresora HP1200
 - HP42 - Impresora HP1200
@@ -43,6 +32,20 @@ ____________________________________________________________------Puerta Inform�
 - SP-6 - Ordenador con Xubuntu 18.04 y con posibilidad de imprimir en HP133, HP77, HP42
 - SP-7 - Ordenador con Xubuntu 18.04 y con posibilidad de imprimir en HP133, HP77, HP42
 - SP-8 - Ordenador con Windows 10 y con posibilidad de imprimir en HP133
+
+Localización en Sala de Profesores
+
+  ---Puerta Conserjeria---- __________________________________________________________
+  
+            SP-05     SP-06        HP133     SP-07        SP-08 
+         
+         
+         
+         
+         
+          SP-04   HP77  SP-03   impresoras   SP-02  HP42  SP-01
+____________________________________________________________------Puerta Informático------
+
 
 #### Material de uso personal (Portátiles - Wifi y uso de Impresoras)
 
