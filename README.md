@@ -4,23 +4,23 @@
 
 ### Usuarios
 
-En la pizarra se ha puesto(10/09/2018) un listado de usuarios de Rayuela como de usuarios del centro.
+En la pizarra se ha puesto(10/09/2018) un listado de usuarios de [Rayuela](https://rayuela.educarex.es) como de usuarios del centro.
 
 ### Sala de Profesores
 
 #### Material del centro
 Hay disponibles 8 ordenadores en Sala de profesores y tres impresoras
 
-  ---- __________________________________________________________
+  ---Puerta Conserjeria---- __________________________________________________________
   
-            SP-05     SP-06        HP133     SP-07        SP-08
+            SP-05     SP-06        HP133     SP-07        SP-08 
          
          
          
          
          
           SP-04   HP77  SP-03   impresoras   SP-02  HP42  SP-01
-____________________________________________________________------
+____________________________________________________________------Puerta Informático------
 
 HP133 - Impresora 
 HP77 - Impresora HP1200
